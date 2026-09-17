@@ -11,18 +11,12 @@ I'm a Computer Science Engineering graduate and a **MERN Stack Developer** passi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankesh04&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" height="170" alt="Ankesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankesh04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankesh04&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="./stats.svg" height="170" alt="Ankesh's GitHub Stats" />
+  <img src="./top-langs.svg" height="170" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankesh04&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="./trophies.svg" alt="GitHub Trophies" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
